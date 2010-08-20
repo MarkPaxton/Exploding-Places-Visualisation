@@ -151,7 +151,7 @@ function make_kml_item($row)
 				</Point>
 				<name><?php echo(htmlspecialchars($row['timestamp'] . " " . $row['user'])); ?></name>
 				<description><![CDATA[<b>trackpoint #1</b><br/>
-				<i>Latitude:</i> longitude<?php echo(htmlspecialchars($row['latitude'])); ?>&#176;<br/>
+				<i>Latitude:</i> <?php echo(htmlspecialchars($row['latitude'])); ?>&#176;<br/>
 				<i>Longitude:</i> <?php echo(htmlspecialchars($row['latitude'])); ?>&#176;<br/>
 				<i>Elevation:</i> <?php echo(htmlspecialchars($row['altitude'])); ?>m<br/>
 				<i>Speed:</i> <?php echo(htmlspecialchars($row['speed'])) ?>km/h<br/>
