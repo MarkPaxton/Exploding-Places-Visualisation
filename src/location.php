@@ -157,7 +157,7 @@ function make_kml_item($row)
 				<i>Speed:</i> <?php echo(htmlspecialchars($row['speed'])) ?>km/h<br/>
 				<i>Time:</i> <?php echo(htmlspecialchars($row['timestamp'])); ?> ]]></description>
 				<TimeStamp>
-					<when><?php echo(htmlspecialchars($row['timestamp'])); ?></when>
+					<when><?php echo(htmlspecialchars($row['timestamp'])); ?>+01:00</when>
 				</TimeStamp>
 				<styleUrl>#gv_trackpoint</styleUrl>
 				<Snippet></Snippet>
@@ -193,24 +193,28 @@ function make_kml_tail()
 }
 
 
-try {
-	 $dbh = new PDO('sqlite:./exploding.db');
-	 // set a mode parameter in the URL to select which subset of points to use...
-	 $query = "SELECT * from location;";
+try
+{
+	$dbh = new PDO('sqlite:./exploding.db');
+	// set a mode parameter in the URL to select which subset of points to use...
+	$query = "SELECT * from location;";
 
-	 if(array_key_exists('debug', $_GET))
-	 {
+	if(array_key_exists('debug', $_GET))
+	{
 	 	echo($query);
 		exit;
-	 }
+	}
 	 
 	 $rows = array();
-	 foreach($dbh->query($query) as $row) {
+	foreach($dbh->query($query) as $row)
+	{
 		  //print_r($row);
 		  $rows[] = $row;
-	 }
-	 $dbh = null;
-} catch (PDOException $e) {
+	}
+	$dbh = null;
+}
+catch (PDOException $e)
+{
 	 print "Error!: " . $e->getMessage() . "<br/>";
 	 die();
 }
