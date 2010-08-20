@@ -1,0 +1,177 @@
+timestamp;action;value
+Sat Jul 24 11:36:30 BST 2010;"updateMembers";0
+Sat Jul 24 11:36:47 BST 2010;"updateZone";"Plumstead"
+Sat Jul 24 11:36:47 BST 2010;"updateMembers";0
+Sat Jul 24 11:37:14 BST 2010;"updateZone";"Plumstead"
+Sat Jul 24 11:37:31 BST 2010;"updateZone";"Plumstead"
+Sat Jul 24 11:38:37 BST 2010;"updateZone";"Plumstead"
+Sat Jul 24 11:38:37 BST 2010;"updateMembers";0
+Sat Jul 24 11:38:45 BST 2010;"updateZone";"Plumstead"
+Sat Jul 24 11:38:45 BST 2010;"updateMembers";1
+Sat Jul 24 11:39:01 BST 2010;"updateZone";"Plumstead"
+Sat Jul 24 11:39:01 BST 2010;"updateMembers";1
+Sat Jul 24 11:39:15 BST 2010;"updateZone";"Plumstead"
+Sat Jul 24 11:39:15 BST 2010;"updateYear";"1900"
+Sat Jul 24 11:39:15 BST 2010;"updateMembers";1
+Sat Jul 24 11:39:32 BST 2010;"updateZone";"Plumstead"
+Sat Jul 24 11:39:32 BST 2010;newMessage;ID=MSG42333;playerID=P570;type=timeline_content_global;year=1900;title=Welcome to Woolwich;description=You have arrived in the town of Woolwich; on the outskirts of London; England.  It has been a long journey and you are far from home.  You need to find a place to stay and settle  in this new place.;createTime=1279967956794;handled=false;handledTime=null
+Sat Jul 24 11:39:32 BST 2010;"updateYear";"1901"
+Sat Jul 24 11:39:32 BST 2010;"updateMembers";1
+Sat Jul 24 11:39:44 BST 2010;"updateZone";"Plumstead"
+Sat Jul 24 11:39:44 BST 2010;newMessage;ID=MSG42337;playerID=P570;type=timeline_content_global;year=1901;title=Max arrives in Woolwich;description=Max and his family finally arrive  in Woolwich after the long journey West. They move into a flat on Thomas Street; above his brother Lipman?s grocers shop.  They live with their parents David and Annie and their married nephew; a journeyman tailor waiting to earn enough money for his wife to move to England. The wealth and participation in your community increases by 2 points.;createTime=1279967976730;handled=false;handledTime=null
+Sat Jul 24 11:39:44 BST 2010;"updateMembers";1
+Sat Jul 24 11:42:50 BST 2010;"updateZone";"Plumstead"
+Sat Jul 24 11:42:50 BST 2010;newMessage;ID=MSG42358;playerID=P570;type=timeline_content_global;year=1905;title=The Artillery Theatre is finally rebuilt ;description=The artillery theatre has finally been rebuilt; it is now very popular for across all your communities.  Some of your community get jobs at the Theatre for your community who are not already employed at the Royal Artillery or the Arsenal. Their wealth; knowledge and participation increase by 2 points.;createTime=1279968111731;handled=false;handledTime=null
+Sat Jul 24 11:42:50 BST 2010;"updateYear";"1907"
+Sat Jul 24 11:42:50 BST 2010;"updateMembers";1
+Sat Jul 24 11:42:55 BST 2010;"updateZone";"Plumstead"
+Sat Jul 24 11:42:55 BST 2010;newMessage;ID=MSG42373;playerID=P570;type=timeline_content_global;year=1907;title=Women in your community join the London Suffragette Pageant;description=Many of your community across Woolwich join the 66;000 women making a procession through London. Some of your community joins the campaign. Identifiable by their purple; white and green colour scheme; the suffragettes are becoming a familiar sight in London; fighting for Votes For Women! Their health; knowledge and participation increase by 2 points.;createTime=1279968176779;handled=false;handledTime=null
+Sat Jul 24 11:42:55 BST 2010;"updateYear";"1908"
+Sat Jul 24 11:42:55 BST 2010;"updateMembers";1
+Sat Jul 24 11:44:08 BST 2010;"updateZone";"The Town Centre"
+Sat Jul 24 11:45:05 BST 2010;"updateZone";"The Barracks"
+Sat Jul 24 11:46:53 BST 2010;"updateZone";"The Barracks"
+Sat Jul 24 11:46:53 BST 2010;newMessage;ID=MSG42391;playerID=P570;type=timeline_content_global;year=1910;title=Haleys Comet causes panic across all communities!;description=The Great Daylight Comet is sighted in the skies over London. The government issues a warning:  Close your windows and keep indoors for the Earth will soon pass through the Tail of the terrible Comet and its poisonous gases will fill the heavens! People are scared. Health and knowledge across some of your community is reduced by 1 point.;createTime=1279968261737;handled=false;handledTime=null
+Sat Jul 24 11:46:53 BST 2010;"updateYear";"1915"
+Sat Jul 24 11:46:53 BST 2010;"updateMembers";3
+Sat Jul 24 11:46:58 BST 2010;"updateZone";"The Barracks"
+Sat Jul 24 11:46:58 BST 2010;"updateMembers";3
+Sat Jul 24 11:47:07 BST 2010;"updateZone";"The Barracks"
+Sat Jul 24 11:47:07 BST 2010;newMessage;ID=MSG42431;playerID=P570;type=timeline_content_global;year=1916;title=Hard Times for Maxs family;description=Solomon goes to war; Lipman closes the Boot Makers on Wellington Street; the family gather together to support Solomon's family. Your communities lose 2 wealth points.;createTime=1279968421732;handled=false;handledTime=null
+Sat Jul 24 11:47:07 BST 2010;"updateYear";"1916"
+Sat Jul 24 11:47:07 BST 2010;"updateMembers";3
+Sat Jul 24 11:47:14 BST 2010;"updateZone";"The Barracks"
+Sat Jul 24 11:47:14 BST 2010;newMessage;ID=MSG42433;playerID=P570;type=member_created;year=1916;title=Congratulations; there has been a birth in your community;description=Congratulations; there has been a birth; welcome your new community member.;createTime=1279968431749;handled=false;handledTime=null
+Sat Jul 24 11:47:14 BST 2010;"updateMembers";4
+Sat Jul 24 11:47:33 BST 2010;"updateZone";"The Barracks"
+Sat Jul 24 11:47:33 BST 2010;newMessage;ID=MSG42437;playerID=P570;type=timeline_content_global;year=1916;title=A German Zepplin is hit over the Thames;description=Many of your community witness a tragic hit over the Thames.  They watch with horrible fascination as a German Zepplin is hit and catches on fire; all the crew die. Many are injured as the plane falls to the ground.  Communities in the area are increasingly worried about their safety; living so close to the Arsenal and military bases. They lose 1 health point.;createTime=1279968441753;handled=false;handledTime=null
+Sat Jul 24 11:47:33 BST 2010;"updateYear";"1917"
+Sat Jul 24 11:47:33 BST 2010;"updateMembers";4
+Sat Jul 24 11:47:38 BST 2010;"updateZone";"The Barracks"
+Sat Jul 24 11:47:38 BST 2010;"updateMembers";5
+Sat Jul 24 11:47:44 BST 2010;"updateZone";"The Barracks"
+Sat Jul 24 11:47:44 BST 2010;newMessage;ID=MSG42447;playerID=P570;type=timeline_content_global;year=1917;title=Casualties caused by night raids;description=In Woolwich Common many casualties occur; killing and injuring local people during night raids on the Arsenal and Royal Military Academy. Communities in the area should consider moving away from the military targets. They lose 1 health point.;createTime=1279968461889;handled=false;handledTime=null
+Sat Jul 24 11:47:44 BST 2010;"updateMembers";5
+Sat Jul 24 11:49:11 BST 2010;"updateYear";"1917"
+Sat Jul 24 11:49:11 BST 2010;"updateMembers";5
+Sat Jul 24 11:49:11 BST 2010;"updateYear";"1917"
+Sat Jul 24 11:49:11 BST 2010;"updateMembers";5
+Sat Jul 24 11:51:15 BST 2010;newMessage;ID=MSG42514;playerID=P570;type=timeline_content_global;year=1923;title=Midsummer Night's Dream performed at the Nursery School;description=The munitions worker's nursery is performing Midsummer's Night Dream; many of your community go along to watch their children perform; it is a celebration of community and people are amazed at how good the performance is.  All your community gains 1 health; knowledge and participation point.;createTime=1279968631817;handled=false;handledTime=null
+Sat Jul 24 11:51:15 BST 2010;"updateYear";"1924"
+Sat Jul 24 11:51:15 BST 2010;"updateMembers";11
+Sat Jul 24 11:53:05 BST 2010;"updateZone";"The Town Centre"
+Sat Jul 24 11:56:22 BST 2010;"updateZone";"The Town Centre"
+Sat Jul 24 11:56:22 BST 2010;newMessage;ID=MSG42563;playerID=P570;type=timeline_content_global;year=1931;title=The ferry now carries 20;000 passengers a day;description=Every day 20;000 passengers travel on the Woolwich ferry across the Thames to jobs; and people also come in to Woolwich to visit the Market and local shops.  Despite the depression Woolwich remains a bustling place to live.  Your communities gain 2 health; wealth and participation points.;createTime=1279968871760;handled=false;handledTime=null
+Sat Jul 24 11:56:22 BST 2010;"updateYear";"1934"
+Sat Jul 24 11:56:22 BST 2010;"updateMembers";20
+Sat Jul 24 11:56:32 BST 2010;"updateZone";"The Town Centre"
+Sat Jul 24 11:56:32 BST 2010;newMessage;ID=MSG42461;playerID=P570;type=member_died;year=1918;title=Sadly you have lost a community member; check the health of the other members;description=Sadly you have lost a community member. You may need to move the rest of the community in the area to protect their health.;createTime=1279968481793;handled=false;handledTime=null
+Sat Jul 24 11:56:32 BST 2010;newMessage;ID=MSG42575;playerID=P570;type=timeline_content_global;year=1935;title=Lipman dies;description=Maxs family are devasted by the news that the elder brother Lipman dies.  Many of Lipmans and Maxs children remain in Woolwich but the elder generation has now gone.  Your community loses 1 health point and gains 2 participation points;createTime=1279968986730;handled=false;handledTime=null
+Sat Jul 24 11:56:32 BST 2010;"updateYear";"1935"
+Sat Jul 24 11:56:32 BST 2010;"updateMembers";20
+Sat Jul 24 11:58:53 BST 2010;"focusChanged";"M31841"
+Sat Jul 24 11:59:09 BST 2010;"focusChanged";"null"
+Sat Jul 24 12:02:54 BST 2010;"updateYear";"1935"
+Sat Jul 24 12:02:54 BST 2010;"updateMembers";20
+Sat Jul 24 12:03:17 BST 2010;"focusChanged";"M31813"
+Sat Jul 24 12:04:14 BST 2010;"focusChanged";"null"
+Sat Jul 24 12:10:32 BST 2010;"updateZone";"The Town Centre"
+Sat Jul 24 12:11:07 BST 2010;newMessage;ID=MSG42575;playerID=P570;type=timeline_content_global;year=1935;title=Lipman dies;description=Maxs family are devasted by the news that the elder brother Lipman dies.  Many of Lipmans and Maxs children remain in Woolwich but the elder generation has now gone.  Your community loses 1 health point and gains 2 participation points;createTime=1279968986730;handled=false;handledTime=null
+Sat Jul 24 12:11:07 BST 2010;"updateYear";"1964"
+Sat Jul 24 12:11:15 BST 2010;"updateZone";"The Town Centre"
+Sat Jul 24 12:11:17 BST 2010;"updateMembers";20
+Sat Jul 24 12:11:18 BST 2010;"updateZone";"The Town Centre"
+Sat Jul 24 12:11:54 BST 2010;"updateZone";"Plumstead"
+Sat Jul 24 12:12:24 BST 2010;"updateZone";"Plumstead"
+Sat Jul 24 12:12:43 BST 2010;"updateZone";"Plumstead"
+Sat Jul 24 12:13:16 BST 2010;"updateYear";"1964"
+Sat Jul 24 12:13:16 BST 2010;"updateMembers";20
+Sat Jul 24 12:15:11 BST 2010;"updateZone";"Woolwich Common"
+Sat Jul 24 12:16:06 BST 2010;"updateZone";"Plumstead"
+Sat Jul 24 12:16:35 BST 2010;"updateZone";"Plumstead"
+Sat Jul 24 12:16:35 BST 2010;newMessage;ID=MSG42732;playerID=P570;type=timeline_content_global;year=1968;title=The Gypsy Moth IV Yacht leaves Woolwich;description=Woolwich loses the Gipsy Moth IV; which is to be permanently berthed at Greenwich; London. Woolwich loses one of its famous landmarks.Your community across Woolwich loses 2 wealth points.;createTime=1279969976737;handled=false;handledTime=null
+Sat Jul 24 12:16:35 BST 2010;"updateYear";"1974"
+Sat Jul 24 12:16:35 BST 2010;"updateMembers";20
+Sat Jul 24 12:16:47 BST 2010;"updateZone";"Plumstead"
+Sat Jul 24 12:16:47 BST 2010;newMessage;ID=MSG42461;playerID=P570;type=member_died;year=1918;title=Sadly you have lost a community member; check the health of the other members;description=Sadly you have lost a community member. You may need to move the rest of the community in the area to protect their health.;createTime=1279968481793;handled=false;handledTime=null
+Sat Jul 24 12:16:47 BST 2010;newMessage;ID=MSG42765;playerID=P570;type=timeline_content_global;year=1975;title=The Thames barrier construction creating jobs;description=Across Woolwich jobs are created by the new construction on the Thames Barrier providing and opportunities for young people in your communities.  They gain 2 health; wealth and knowledge points.;createTime=1279970197000;handled=false;handledTime=null
+Sat Jul 24 12:16:47 BST 2010;"updateYear";"1975"
+Sat Jul 24 12:16:47 BST 2010;"updateMembers";20
+Sat Jul 24 12:17:31 BST 2010;"updateZone";"Plumstead"
+Sat Jul 24 12:17:31 BST 2010;"updateYear";"1977"
+Sat Jul 24 12:17:31 BST 2010;"updateMembers";20
+Sat Jul 24 12:17:37 BST 2010;"updateZone";"Plumstead"
+Sat Jul 24 12:17:37 BST 2010;newMessage;ID=MSG42772;playerID=P570;type=timeline_content_global;year=1977;title=It is the Queens Jubilee!;description=People all over Woolwich celebrate the Queens Jubilee with street parties; many people receive commeration mugs that sit on their mantlepeice for years to come.  Your community gains 2 health and participation points.;createTime=1279970251932;handled=false;handledTime=null
+Sat Jul 24 12:17:37 BST 2010;"updateMembers";20
+Sat Jul 24 12:20:15 BST 2010;"updateZone";"Woolwich Common"
+Sat Jul 24 12:20:22 BST 2010;"updateZone";"Woolwich Common"
+Sat Jul 24 12:20:59 BST 2010;newMessage;ID=MSG42779;playerID=P570;type=timeline_content_global;year=1978;title=Woolwich Power Station closes;description=Woolwich power station closes in the dock area.  Jobs are lost but the area has less pollution from the chimneys. Your community loses 2 wealth points but gains 2 health points.;createTime=1279970281964;handled=false;handledTime=null
+Sat Jul 24 12:20:59 BST 2010;"updateYear";"1983"
+Sat Jul 24 12:20:59 BST 2010;"updateMembers";20
+Sat Jul 24 12:21:08 BST 2010;newMessage;ID=MSG42794;playerID=P570;type=timeline_content_global;year=1984;title=North Woolwich Old Station Museum opens;description=The North Woolwich Old Station Museum opens in the old train station building; dedicated to the history of the Great Eastern Railway.  Your community's knowledge and participation increase by 1 point.;createTime=1279970461734;handled=false;handledTime=null
+Sat Jul 24 12:21:08 BST 2010;"updateYear";"1984"
+Sat Jul 24 12:21:08 BST 2010;"updateMembers";20
+Sat Jul 24 12:22:08 BST 2010;"updateZone";"Woolwich Common"
+Sat Jul 24 12:22:24 BST 2010;"updateZone";"Woolwich Common"
+Sat Jul 24 12:23:00 BST 2010;newMessage;ID=MSG42794;playerID=P570;type=timeline_content_global;year=1984;title=North Woolwich Old Station Museum opens;description=The North Woolwich Old Station Museum opens in the old train station building; dedicated to the history of the Great Eastern Railway.  Your community's knowledge and participation increase by 1 point.;createTime=1279970461734;handled=false;handledTime=null
+Sat Jul 24 12:23:00 BST 2010;"updateYear";"1988"
+Sat Jul 24 12:23:00 BST 2010;"updateMembers";20
+Sat Jul 24 12:23:06 BST 2010;"updateZone";"Plumstead"
+Sat Jul 24 12:24:24 BST 2010;"updateZone";"Plumstead"
+Sat Jul 24 12:24:24 BST 2010;"updateYear";"1990"
+Sat Jul 24 12:24:24 BST 2010;"updateMembers";20
+Sat Jul 24 12:24:31 BST 2010;"updateZone";"Plumstead"
+Sat Jul 24 12:24:31 BST 2010;"updateYear";"1991"
+Sat Jul 24 12:24:31 BST 2010;"updateMembers";20
+Sat Jul 24 12:26:11 BST 2010;"updateZone";"Woolwich Common"
+Sat Jul 24 12:28:03 BST 2010;"updateZone";"Woolwich Common"
+Sat Jul 24 12:28:03 BST 2010;newMessage;ID=MSG42827;playerID=P570;type=timeline_content_global;year=1993;title=The Woolwich DLR station is built;description=All your communities will benefit from the Woolwich DLR being built in the heart of Woolwich connecting the area to the rest of London.  Your community increase health; wealth and participation by 2 points.;createTime=1279970731935;handled=false;handledTime=null
+Sat Jul 24 12:28:03 BST 2010;"updateYear";"1998"
+Sat Jul 24 12:28:03 BST 2010;"updateMembers";20
+Sat Jul 24 12:31:38 BST 2010;"updateZone";"The Barracks"
+Sat Jul 24 12:31:46 BST 2010;"updateZone";"The Barracks"
+Sat Jul 24 12:32:00 BST 2010;"updateZone";"Woolwich Common"
+Sat Jul 24 12:32:11 BST 2010;"updateZone";"Plumstead"
+Sat Jul 24 12:32:43 BST 2010;"updateZone";"The Town Centre"
+Sat Jul 24 12:33:04 BST 2010;"updateZone";"Plumstead"
+Sat Jul 24 12:33:25 BST 2010;newMessage;ID=MSG42882;playerID=P570;type=timeline_content_global;year=2005;title=An increase in obesity causes health problems;description=Across Woolwich there is an increase in health problems  with more people leading sedentary lifestyles; watching TV; travelling in cars; doing less sport and eating processed foods.  Particularly amongst the younger generations.  Your community loses 1 health and participation point.;createTime=1279971091745;handled=false;handledTime=null
+Sat Jul 24 12:33:25 BST 2010;"updateYear";"2008"
+Sat Jul 24 12:33:25 BST 2010;"updateMembers";20
+Sat Jul 24 12:33:32 BST 2010;"focusChanged";"M31841"
+Sat Jul 24 12:33:36 BST 2010;"focusChanged";"null"
+Sat Jul 24 12:33:36 BST 2010;newMessage;ID=MSG42917;playerID=P570;type=timeline_content_global;year=2009;title=Woolwich Arsenal DLR Station Opens;description=Across all communities people celebrate the opening of the new terminus of the Docklands Light Railway's London City Airport branch. They gain 2 health; wealth and knowledge points.;createTime=1279971206933;handled=false;handledTime=null
+Sat Jul 24 12:33:36 BST 2010;"updateYear";"2009"
+Sat Jul 24 12:33:36 BST 2010;"updateMembers";20
+Sat Jul 24 12:33:45 BST 2010;"updateZone";"Woolwich Common"
+Sat Jul 24 12:33:53 BST 2010;"updateZone";"Woolwich Common"
+Sat Jul 24 12:33:53 BST 2010;"updateMembers";20
+Sat Jul 24 12:34:10 BST 2010;"focusChanged";"M31834"
+Sat Jul 24 12:34:10 BST 2010;"focusChanged";"null"
+Sat Jul 24 12:34:10 BST 2010;newMessage;ID=MSG42922;playerID=P570;type=timeline_content_global;year=2009;title=A day out at the Arsenal;description=Many people across Woolwich now go to the Arsenal for a day out.  They walk along the new pathways by the river and stop off at the cafe; visit the heritage centre when interesting exhibitions are on. The Firepower museum is a good place to take visitors. Your community gains 2 wealth; knowledge and participation points.;createTime=1279971231738;handled=false;handledTime=null
+Sat Jul 24 12:34:10 BST 2010;"updateYear";"2010"
+Sat Jul 24 12:34:10 BST 2010;"updateMembers";20
+Sat Jul 24 12:34:19 BST 2010;"updateMembers";20
+Sat Jul 24 12:34:28 BST 2010;"updateZone";"Woolwich Common"
+Sat Jul 24 12:34:43 BST 2010;newMessage;ID=MSG42927;playerID=P570;type=timeline_content_global;year=2011;title=Please return to the Tramshed as quickly as possible.;description=Congratulations! Your community has survived for 120 years in Woolwich; you have 20 members remaining.  Please return to the Tramshed as quickly as possible.;createTime=1279971271750;handled=false;handledTime=null
+Sat Jul 24 12:34:43 BST 2010;"updateYear";"2011"
+Sat Jul 24 12:34:43 BST 2010;"updateMembers";20
+Sat Jul 24 12:34:45 BST 2010;"nag gameEnding"
+Sat Jul 24 12:34:50 BST 2010;"updateMembers";20
+Sat Jul 24 12:35:01 BST 2010;"nag gameEnding"
+Sat Jul 24 12:35:16 BST 2010;"nag gameEnding"
+Sat Jul 24 12:35:17 BST 2010;"updateMembers";20
+Sat Jul 24 12:35:22 BST 2010;"updateMembers";20
+Sat Jul 24 12:35:25 BST 2010;"updateYear";"2011"
+Sat Jul 24 12:35:25 BST 2010;"updateMembers";20
+Sat Jul 24 12:35:27 BST 2010;"nag gameEnding"
+Sat Jul 24 12:35:28 BST 2010;"updateYear";"2011"
+Sat Jul 24 12:35:28 BST 2010;"updateMembers";20
+Sat Jul 24 12:35:29 BST 2010;"updateYear";"2011"
+Sat Jul 24 12:35:29 BST 2010;"updateMembers";20
+Sat Jul 24 12:35:30 BST 2010;"updateYear";"2011"
+Sat Jul 24 12:35:30 BST 2010;"updateMembers";20
+Sat Jul 24 12:35:31 BST 2010;"updateYear";"2011"
+Sat Jul 24 12:35:31 BST 2010;"updateMembers";20
+Sat Jul 24 12:35:45 BST 2010;"updateMembers";20
+Sat Jul 24 12:35:52 BST 2010;"updateMembers";20
+Sat Jul 24 12:36:14 BST 2010;"updateMembers";20
