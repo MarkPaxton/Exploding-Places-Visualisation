@@ -2,6 +2,22 @@
 
 define('SITE_ROOT', 'http://www.mrl.nott.ac.uk/~mcp/exploding');
 
+/*
+
+CREATE TABLE location (
+                timestamp text,
+                accuracy real,
+                altitude real,
+                bearing real,
+                latitude real,
+                longitude real,
+                provider text,
+                speed real,
+                extras text,
+                user text
+        );
+
+*/
 /**
  * Return a string with the KML file prefix for usese with open layers
  * based on sundials.kml example
@@ -205,7 +221,7 @@ try
 		exit;
 	}
 	 
-	 $rows = array();
+	$rows = array();
 	foreach($dbh->query($query) as $row)
 	{
 		  //print_r($row);
